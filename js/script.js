@@ -46,7 +46,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 });
 
 // Formulário -> WhatsApp
-const whatsappNumber = '55819855535843';
+const whatsappNumber = '558185535843';
 
 const interesseLabels = {
   internacao: 'Internação',
